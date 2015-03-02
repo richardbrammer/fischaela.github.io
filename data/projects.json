@@ -1,0 +1,254 @@
+[ {
+	"color": "m_project-color-2",
+	"images": [ {
+		"src": "images/ronnie-1.jpg"
+	}, {
+		"src": "images/ronnie-2.jpg"
+	}, {
+		"src": "images/ronnie-3.jpg"
+	} ],
+	"imagealt": "Earthworm Ronnie WebGL Game",
+	"imagebutton": "Visit store",
+	"imagehref": "https://chrome.google.com/webstore/detail/earthworm-ronnie/jongcofldijplcpnbdpagghchhdicoaa",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"https://chrome.google.com/webstore/detail/earthworm-ronnie/jongcofldijplcpnbdpagghchhdicoaa\">Earthworm Ronnie WebGL Game</a>",
+		"2": "HTML5 Game with Three.js (Chrome App, Firefox App)",
+		"3": "fun project for personal use"
+	}
+}, {
+	"color": "m_project-color-1",
+	"images": [ {
+		"src": "images/tt-1.jpg"
+	}, {
+		"src": "images/tt-2.jpg"
+	}, {
+		"src": "images/tt-3.jpg"
+	} ],
+	"imagealt": "Microsite for Audi TT",
+	"imagebutton": "Visit website",
+	"imagehref": "http://microsites.audi.com/tt/index.html?locale=de_DE#/intro",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://microsites.audi.com/tt/index.html?locale=de_DE#/intro\">microsites.audi.com/tt/</a>",
+		"2": "Frontend development with HTML5 Canvas, WebGL and SVG animations",
+		"3": "/w 5 others for <a class=\"f_anchor-inline\" href=\"http://www.razorfish.de/\">Razorfish</a>"
+	}
+}, {
+	"color": "m_project-color-3",
+	"images": [ {
+		"src": "images/knauf-1.jpg"
+	}, {
+		"src": "images/knauf-2.jpg"
+	}, {
+		"src": "images/knauf-3.jpg"
+	} ],
+	"imagealt": "knauf Infothek iPad App",
+	"imagebutton": "Visit app store",
+	"imagehref": "https://itunes.apple.com/de/app/knauf-infothek/id949469695?mt=8&ign-mpt=uo%3D4/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"https://itunes.apple.com/de/app/knauf-infothek/id949469695?mt=8&ign-mpt=uo%3D4/\">Storefront knauf Infothek iPad App</a>",
+		"2": "Digital design and frontend development with AngularJS",
+		"3": "/w <a class=\"f_anchor-inline\" href=\"http://www.irs-nbg.de/\">IRS Willmy PrintMedia GmbH</a> for <a class=\"f_anchor-inline\" href=\"http://www.knauf.de/\">knauf Gips KG</a>"
+	}
+}, {
+	"color": "m_project-color-4",
+	"images": [ {
+		"src": "images/rs-2.jpg"
+	}, {
+		"src": "images/rs-3.jpg"
+	}, {
+		"src": "images/rs-1.jpg"
+	} ],
+	"imagealt": "ROLLING STONE iPad app",
+	"imagebutton": "Visit app store",
+	"imagehref": "https://itunes.apple.com/de/app/rolling-stone/id459438953?mt=8&affId=1857076&ign-mpt=uo%3D4",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"https://itunes.apple.com/de/app/rolling-stone/id459438953?mt=8&affId=1857076&ign-mpt=uo%3D4\">Rolling Stone Magazine Germany iPad issue</a>",
+		"2": "Concept, digital design and production",
+		"3": "/w 4 others for <a class=\"f_anchor-inline\" href=\"http://www.axel-springer-mediahouse-berlin.de/\">Axel Springer Mediahouse</a>"
+	}
+}, {
+	"color": "m_project-color-1",
+	"images": [ {
+		"src": "images/mfit-2.jpg"
+	}, {
+		"src": "images/mfit-3.jpg"
+	}, {
+		"src": "images/mfit-1.jpg"
+	} ],
+	"imagealt": "Frontend for machtfit.de web app",
+	"imagebutton": "Visit website",
+	"imagehref": "http://www.machtfit.de/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://www.machtfit.de/\">www.machtfit.de</a>",
+		"2": "Frondend Development with Django for web app",
+		"3": "for <a class=\"f_anchor-inline\" href=\"http://www.machtfit.de/\">Machtfit</a>"
+	}
+}, {
+	"color": "m_project-color-2",
+	"images": [ {
+		"src": "images/donotspy-1.jpg"
+	}, {
+		"src": "images/donotspy-2.jpg"
+	} ],
+	"imagealt": "Personal project",
+	"imagebutton": "Visit website",
+	"imagehref": "http://ueberwacht-mich-nicht.de/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://ueberwacht-mich-nicht.de/\">http://ueberwacht-mich-nicht.de/</a>",
+		"2": "Concept, Design, Frondend Development",
+		"3": "/w 1 others"
+	}
+}, {
+	"color": "m_project-color-2",
+	"images": [ {
+		"src": "images/geildanke-1.jpg"
+	}, {
+		"src": "images/geildanke-2.jpg"
+	}, {
+		"src": "images/geildanke-3.jpg"
+	} ],
+	"imagealt": "Website for geildanke.com",
+	"imagebutton": "Visit website",
+	"imagehref": "http://geildanke.com/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://geildanke.com/\">geildanke.com</a>",
+		"2": "Webdesign and frondend Development",
+		"3": "/w 1 backend developer for <a class=\"f_anchor-inline\" href=\"http://geildanke.com/\">my own company</a>"
+	}
+}, {
+	"color": "m_project-color-2",
+	"images": [ {
+		"src": "images/lisht-2.jpg"
+	}, {
+		"src": "images/lisht-1.jpg"
+	}, {
+		"src": "images/lisht-3.jpg"
+	} ],
+	"imagealt": "Chrome extension Lisht",
+	"imagebutton": "Visit store",
+	"imagehref": "https://chrome.google.com/webstore/detail/lisht/ecdnbioigfhkjnaimnokimcbibenolbp",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"https://chrome.google.com/webstore/detail/lisht/ecdnbioigfhkjnaimnokimcbibenolbp\">Lisht chrome extension</a>",
+		"2": "Web app design and development with AngularJS and Firebase",
+		"3": "fun project for personal use"
+	}
+}, {
+	"color": "m_project-color-3",
+	"images": [ {
+		"src": "images/solesko-3.jpg"
+	}, {
+		"src": "images/solesko-2.jpg"
+	}, {
+		"src": "images/solesko-1.jpg"
+	} ],
+	"imagealt": "Landingpage solesko.de",
+	"imagebutton": "Visit website",
+	"imagehref": "http://solesko.de/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://solesko.de/\">solesko.de</a>",
+		"2": "Responsive web development",
+		"3": "/w 1 other for <a class=\"f_anchor-inline\" href=\"http://www.n3vision.de/\">N3 Vision</a>"
+	}
+}, {
+	"color": "m_project-color-4",
+	"images": [ {
+		"src": "images/audi-3.jpg"
+	}, {
+		"src": "images/audi-2.jpg"
+	}, {
+		"src": "images/audi-1.jpg"
+	} ],
+	"imagealt": "Microsite for Audi S1",
+	"imagebutton": "Visit website",
+	"imagehref": "http://microsites.audi.com/s1/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://microsites.audi.com/s1/\">microsites.audi.com/s1/</a>",
+		"2": "Frondend Development, HTML5 canvas and responsive animations",
+		"3": "/w 5 others for <a class=\"f_anchor-inline\" href=\"http://www.razorfish.de/\">Razorfish</a>"
+	}
+}, {
+	"color": "m_project-color-3",
+	"images": [ {
+		"src": "images/kolarski-1.jpg"
+	}, {
+		"src": "images/kolarski-2.jpg"
+	}, {
+		"src": "images/kolarski-3.jpg"
+	} ],
+	"imagealt": "Website kolarski-re.com",
+	"imagebutton": "Visit website",
+	"imagehref": "http://www.kolarski-re.com/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://www.kolarski-re.com/\">kolarski-re.com</a>",
+		"2": "Wordpress theme, responsive web development",
+		"3": "/w 1 other for <a class=\"f_anchor-inline\" href=\"http://www.n3vision.de/\">N3 Vision</a>"
+	}
+}, {
+	"color": "m_project-color-3",
+	"images": [ {
+		"src": "images/westend-1.jpg"
+	}, {
+		"src": "images/westend-2.jpg"
+	}, {
+		"src": "images/westend-3.jpg"
+	} ],
+	"imagealt": "Website westendpark.de",
+	"imagebutton": "Visit website",
+	"imagehref": "http://westendpark.de/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://westendpark.de/\">westendpark.de</a>",
+		"2": "Frondend development",
+		"3": "/w 2 others for <a class=\"f_anchor-inline\" href=\"http://www.n3vision.de/\">N3 Vision</a>"
+	}
+}, {
+	"color": "m_project-color-4",
+	"images": [ {
+		"src": "images/giles-1.jpg"
+	}, {
+		"src": "images/giles-2.jpg"
+	}, {
+		"src": "images/giles-3.jpg"
+	} ],
+	"imagealt": "Giles Closet App for Minimalists",
+	"imagebutton": "Visit website",
+	"imagehref": "http://microsites.audi.com/s1/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"https://chrome.google.com/webstore/detail/giles-closet-for-minimali/amhcnogbfhhdfmggiehekdioncefobff\">Giles Closet App for Minimalists</a>",
+		"2": "Concept, Design and Frondend Development with AngularJS (Chrome App)",
+		"3": "fun project for personal use</a>"
+	}
+}, {
+	"color": "m_project-color-3",
+	"images": [ {
+		"src": "images/jachi-1.jpg"
+	}, {
+		"src": "images/jachi-2.jpg"
+	}, {
+		"src": "images/jachi-3.jpg"
+	} ],
+	"imagealt": "Website jachimovicz.de",
+	"imagebutton": "Visit website",
+	"imagehref": "http://www.jachimowicz.de/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://www.jachimowicz.de/\">jachimovitch.de</a>",
+		"2": "Frondend Development, modular css architecture, transitions",
+		"3": "/w 2 others for <a class=\"f_anchor-inline\" href=\"http://www.n3vision.de/\">N3 Vision</a>"
+	}
+}, {
+	"color": "m_project-color-3",
+	"images": [ {
+		"src": "images/swin112-1.jpg"
+	}, {
+		"src": "images/swin112-2.jpg"
+	}, {
+		"src": "images/swin112-3.jpg"
+	} ],
+	"imagealt": "Website swin112.com",
+	"imagebutton": "Visit website",
+	"imagehref": "http://swin112.com/",
+	"figcaptions": {
+		"1": "<a class=\"f_anchor-inline\" href=\"http://swin112.com/\">swin112.com</a>",
+		"2": "Responsive web development",
+		"3": "/w 3 others for <a class=\"f_anchor-inline\" href=\"http://www.n3vision.de/\">N3 Vision</a>"
+	}
+} ]

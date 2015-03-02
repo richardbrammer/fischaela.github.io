@@ -1,0 +1,25 @@
+[ {
+	"headline": "Focus:",
+	"paragraphs": {
+		"1": "Responsive web design and frontend development with focus on UX and keyframe animations und transitions",
+		"2": "HTML 5, CSS3/SASS/LESS, JavaScript, jQuery, AngularJS",
+		"3": "HTML5 WebGL and Canvas API"
+	}
+}, {
+	"headline": "Methods and tools:",
+	"paragraphs": {
+		"1": "Responsive design (mobile first, graceful degradation)",
+		"2": "Scrum, Grunt/Gulp, Yeoman, GIT, NPM (Node.js), Bower, BrowserStack, JIRA, SMACSS, OOCSS",
+		"3": "Phaser, CreateJS, Three.js"
+	}
+}, {
+	"headline": "Interests:",
+	"paragraphs": {
+		"1": "User interface and interaction design, User experience, Typography",
+		"2": "Wireframing and Hi- Res- Mockups, Stile Tyles, Styleguides, Adobe CS/CC, Sketch",
+		"3": "Unity, game development",
+		"4": "CSS specifications, HTML5 games and game development frameworks, webplatform.org",
+		"5": "usability and interaction design",
+		"6": "Yoga, books, music, net politics, knitting"
+	}
+} ]
